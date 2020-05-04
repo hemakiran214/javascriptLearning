@@ -1,0 +1,1 @@
+//Explanation of typescript and diffs with javascript comes here.
